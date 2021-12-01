@@ -5,7 +5,7 @@
     "website": "https://www.cardanogoldcoin.com",
     "description": "Cardano Gold (CARGO) The 1st Cardano store of value. Extremly low total supply, only 10.000.000. We support the Cardano CNFT Community.",
     "totalSupply": 10000000,
-    "amounts": [1000, 10000, 100000]
+    "amounts": [100, 1000, 10000, 100000]
 }
 
 
