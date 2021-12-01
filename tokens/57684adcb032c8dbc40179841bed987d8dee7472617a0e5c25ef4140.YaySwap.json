@@ -1,0 +1,11 @@
+{
+    "policyId": "57684adcb032c8dbc40179841bed987d8dee7472617a0e5c25ef4140",
+    "name": "YaySwap",
+    "symbol": "YAY",
+    "website": "https://yayswap.io/",
+    "description": "YaySwap is the first hybrid DEX platform on the Cardano Blockchain that integrates both an Automated Market Maker and an order book. YaySwap is poised to become the go-to decentralized finance (DeFi) solution for smart-swaps in Cardano.",
+    "totalSupply": 100000000,
+    "amounts": [10, 50, 100, 500, 1000, 5000, 10000],
+    "decimalPlaces": 0
+}
+
