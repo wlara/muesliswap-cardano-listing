@@ -1,0 +1,10 @@
+{
+    "policyId": "49fe136eb6a7f438fec3a2b1fedbc29ce2723c5248530b3b1f5fbde7",
+    "name": "KICK",
+    "symbol": "KICK",
+    "website": "https://kick.io/",
+    "description": "Many of the launchpads existing today favour the larger investor and leave the smaller investor with little or no allocations and often out of pocket from gas. Our mission is to provide a simplified and fairer system for all investors.",
+    "totalSupply": 350000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000],
+    "decimalPlaces": 0
+}
